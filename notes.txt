@@ -1,0 +1,11 @@
+Hva skal gjøres på oppgave 1
+
+- Analyser datasettet og gjør preprosessering 
+- Tren op en treklassifiserer
+- Bruk metrikker fra forelesning 
+    - Gini impurity
+    - Entropi
+    - Logg loss (?)
+- bruk metrikker fra forelesning 
+- bruk metrikker fra forelesning 
+
