@@ -9,3 +9,14 @@ Hva skal gjøres på oppgave 1
 - bruk metrikker fra forelesning 
 - bruk metrikker fra forelesning 
 
+Hva må gjøres på oppgave 2:
+
+- Gjør dataanalyse
+- Gjør preprosessering
+- Tren opp decision tree classifier 
+- Rapporter kryss-validering-score og test-accuracy
+- Forsøk forskjellige split-criteria for treet
+- Plot beslutningstreet 
+- Bruk boosting til å forbedre treffsikkerheten. 
+- Bruk Naïve bayes til å predikere hvorvidt én passasjer overlever eller ikke. 
+
